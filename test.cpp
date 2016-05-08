@@ -1,6 +1,6 @@
 
-main() {
-	print "master"
-	print "branch2 and branch1"
+int main() {
 	int  j = 4;
+
+	int k =  j + 2;
 }	
