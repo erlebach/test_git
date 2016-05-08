@@ -1,6 +1,6 @@
-
+j
 main() {
-	print "master"
+	print "master1"
 	print "branch2 and branch1"
 	print "line 3"
 	print "line 4"
