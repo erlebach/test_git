@@ -6,5 +6,6 @@ main() {
 	print "line 4"
 	print "line 5"
 	print "line 6"
+	print "line 7"
 	int  j = 4;
 }	
