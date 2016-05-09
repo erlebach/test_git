@@ -1,4 +1,4 @@
-j
+#
 main() {
 	print "master1"
 	print "branch2 and branch1"
